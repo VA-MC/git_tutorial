@@ -1,6 +1,8 @@
 from snakemake.utils import min_version
 min_version("5.3.0")
 
+changement a ajouter 
+
 configfile: "config.yml"
 
 rule all:
